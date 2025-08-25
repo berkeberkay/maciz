@@ -160,28 +160,3 @@ src/
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👥 Ekip
-
-- **Geliştirici**: [Adınız]
-- **Tasarım**: [Tasarımcı Adı]
-- **AI Uzmanı**: [AI Uzmanı Adı]
-
-## 📞 İletişim
-
-- **Email**: info@maciz.com
-- **Website**: https://maciz.com
-- **Demo**: https://maciz-izimler-hikaye-rief.bolt.host
-
-## 🙏 Teşekkürler
-
-- React ekibine modern framework için
-- Vite ekibine hızlı build tool için
-- Tüm açık kaynak katkıcılarına
-
----
-
-**Maciz** - Çocukların hayal gücünü teknoloji ile buluşturan eğitici uygulama 🌟
